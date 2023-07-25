@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo2 prepcourse Henry
+Luis Vitola
+
+como crear un repositorio y clonarlo de github al escritorio local
